@@ -1,6 +1,7 @@
 # PRCP-1001: Rice Leaf Disease Detection Project
 
 ## 🌿 Project Overview
+### Visit the project website https://riceleafdetection.lovable.app/
 
 This project is an endeavor into **Precision Agriculture**, focusing on the early and accurate detection of diseases in rice leaves using **Machine Learning** and **Deep Learning** techniques. The primary goal is to provide a robust system to help farmers quickly identify common rice leaf diseases, enabling timely intervention to protect crop yield and ensure food security.
 
