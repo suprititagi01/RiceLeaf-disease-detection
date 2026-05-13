@@ -102,5 +102,4 @@ To run this project, you will need a Python 3.x environment and the following li
 
 The PRCP-1001 project successfully implemented a complete machine learning pipeline for rice leaf disease detection. The project highlights that a combination of **Exploratory Data Analysis (EDA)**, **Transfer Learning (EfficientNet)**, and robust techniques like **Data Augmentation** and **K-Fold Cross-Validation** is essential for building a reliable and accurate classification system, even with a limited initial dataset. This work lays the foundation for developing real-time, edge-deployable solutions for agricultural field applications.
 
-## Author : Vinod Bavage
-## Collaborator : Bhavani
+## Author : Suprit itagi
